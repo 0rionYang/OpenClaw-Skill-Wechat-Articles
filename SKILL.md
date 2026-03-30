@@ -11,8 +11,8 @@ description: >
   即使用户没有明确说"微信"，只要涉及公众号内容获取或提取，也应触发此 skill。
   Triggers: 搜索公众号, 微信文章, 读这篇公众号, 抓取公众号, wechat article, mp.weixin.qq.com, 公众号内容, 微信链接
 version: 1.0.0
-homepage: https://github.com/johan-oilman/wechat-articles
-author: 油太人 / @johan-oilman
+homepage: https://github.com/0rionYang/OpenClaw-Skill-Wechat-Articles
+author: @0rionYang
 license: MIT
 metadata:
   clawdbot:
